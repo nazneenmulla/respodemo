@@ -41,4 +41,15 @@ public class E extends A implements Interface{
            e.m4();//E
           
           e.m5();//E
+		System.out.println("hii
+				   
+				   
+				   
+				   
+				   
+				   
+				   
+				   
+				   
+				   ");
 	}}
